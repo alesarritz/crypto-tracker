@@ -14,11 +14,11 @@ Flutter Development Bootcamp</a>.
 
 <table width="500px">
  <tr>
-  <th> <h3>ORIGINAL RESULT</h3> </th>
-  <th><h3>PERSONALIZED RESULT</h3> </th>
+  <th width="250px"> <h3>ORIGINAL RESULT</h3> </th>
+  <th width="250px"><h3> PERSONALIZED RESULT</h3> </th>
  </tr>
   <tr>
-  <td width="250px"><img src="https://github.com/alesarritz/crypto-tracker/blob/11532187d23be2e672d24cd2001ce91a8c797a78/original-result.gif" alt="OriginalResult"/></td>
+  <td width="250px"><img src="https://github.com/alesarritz/crypto-tracker/blob/11532187d23be2e672d24cd2001ce91a8c797a78/original-result.gif" alt="OriginalResult"/> </td>
   <td width="250px"><img src="https://github.com/alesarritz/crypto-tracker/blob/11532187d23be2e672d24cd2001ce91a8c797a78/my-result.gif" alt="MyResult"/></td>
   </tr>
 </table>

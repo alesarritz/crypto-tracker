@@ -12,7 +12,7 @@ Flutter Development Bootcamp</a>.
 
 | <h3>ORIGINAL RESULT</h3>                                                                                    | <h3>PERSONALIZED RESULT</h3>                                                                   |
 |-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/alesarritz/crypto-tracker/blob/11532187d23be2e672d24cd2001ce91a8c797a78/original-result.gif" alt="OriginalResult" width="200" style="float:left; "/> | <img src="https://github.com/alesarritz/crypto-tracker/blob/11532187d23be2e672d24cd2001ce91a8c797a78/my-result.gif" alt="MyResult" width="200" style="float:left"/> |
+| <img src="https://github.com/alesarritz/crypto-tracker/blob/11532187d23be2e672d24cd2001ce91a8c797a78/original-result.gif" alt="OriginalResult" width="200" style="float:middle; "/> | <img src="https://github.com/alesarritz/crypto-tracker/blob/11532187d23be2e672d24cd2001ce91a8c797a78/my-result.gif" alt="MyResult" width="200" style="float:middle"/> |
 
 </br>
 

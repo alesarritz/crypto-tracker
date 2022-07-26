@@ -1,20 +1,9 @@
-<style>
-      .box {
-        width: 30%;
-        height: 200px;
-        border: 5px dashed #f7a239;
-      }
-      img {
-        width: 100%;
-        height: 100%;
-      }
-    </style>
-
 <h1>
 <img src="https://github.com/alesarritz/crypto-tracker/blob/11532187d23be2e672d24cd2001ce91a8c797a78/appIcon.png" alt="appIcon" width=50 align="center"/>
 &ensp;Crypto Tracker</h1>
 
 </br>
+
 
 ## About this project
 The Crypto Tracker project is the result of a 
@@ -24,7 +13,7 @@ Flutter Development Bootcamp</a>.
 
 | <h3>ORIGINAL RESULT</h3>                                                                                    | <h3>PERSONALIZED RESULT</h3>                                                                   |
 |-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| <div> <img src="https://github.com/alesarritz/crypto-tracker/blob/11532187d23be2e672d24cd2001ce91a8c797a78/original-result.gif" alt="OriginalResult" width="200"></div>  | <div class="box">  <img src="https://github.com/alesarritz/crypto-tracker/blob/11532187d23be2e672d24cd2001ce91a8c797a78/my-result.gif" alt="MyResult" width="200"/> </div> |
+| <div> <img src="https://github.com/alesarritz/crypto-tracker/blob/11532187d23be2e672d24cd2001ce91a8c797a78/original-result.gif" alt="OriginalResult"  style = " width: 197px; height: 377px"/></div>  | <div>  <img src="https://github.com/alesarritz/crypto-tracker/blob/11532187d23be2e672d24cd2001ce91a8c797a78/my-result.gif" alt="MyResult"  style = " width: 197px; height: 377px"/> </div> |
 
 </br>
 

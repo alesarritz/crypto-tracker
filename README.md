@@ -11,10 +11,17 @@ challenge called **Bitcoin Ticker** belonging to this amazing
 <a href="https://www.udemy.com/course/flutter-bootcamp-with-dart/">
 Flutter Development Bootcamp</a>.
 
-| <h3>ORIGINAL RESULT</h3>                                                                                    | <h3>PERSONALIZED RESULT</h3>                                                                   |
-|-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/alesarritz/crypto-tracker/blob/11532187d23be2e672d24cd2001ce91a8c797a78/original-result.gif" alt="OriginalResult"  style = " width: 197px; height: 377px"/>  | <img src="https://github.com/alesarritz/crypto-tracker/blob/11532187d23be2e672d24cd2001ce91a8c797a78/my-result.gif" alt="MyResult"  style = " width: 197px; height: 377px "/> |
 
+<table width="500px">
+ <tr>
+  <th> <h3>ORIGINAL RESULT</h3> </th>
+  <th><h3>PERSONALIZED RESULT</h3> </th>
+ </tr>
+  <tr>
+  <td width="250px"><img src="https://github.com/alesarritz/crypto-tracker/blob/11532187d23be2e672d24cd2001ce91a8c797a78/original-result.gif" alt="OriginalResult"/></td>
+  <td width="250px"><img src="https://github.com/alesarritz/crypto-tracker/blob/11532187d23be2e672d24cd2001ce91a8c797a78/my-result.gif" alt="MyResult"/></td>
+  </tr>
+</table>
 
 
 </br>
